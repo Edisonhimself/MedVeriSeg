@@ -27,7 +27,7 @@
     🧑‍💼 <b><i>Project Leader: Prof. Zheming Lu</i></b>
   </p>
 
-  <a href="https://arxiv.org/abs/2511.12110">
+  <a href="https://arxiv.org/abs/2604.10242">
     <img src="https://img.shields.io/badge/arXiv-MedVeriSeg-red" alt="Paper PDF">
   </a>
 </div>
@@ -130,10 +130,10 @@ This project is developed on the codebase of [MediSee](https://github.com/Edison
 ## :love_you_gesture: Citation
 If you find our paper is helpful for your research, please consider citing:
 ```BibTeX
-@article{tong2025mediround,
-  title={MediRound: Multi-Round Entity-Level Reasoning Segmentation in Medical Images},
-  author={Tong, Qinyue and Lu, Ziqian and Liu, Jun and Zuo, Rui and Lu, Zheming},
-  journal={arXiv preprint arXiv:2511.12110},
-  year={2025}
+@article{tong2026medveriseg,
+  title={MedVeriSeg: Teaching LISA-Like Medical Segmentation Models to Verify Query Validity Without Extra Training},
+  author={Tong, Qinyue and Wang, Xiaozhen and Lu, Ziqian and Liu, Jun and Yu, Yunlong and Lu, Zheming},
+  journal={arXiv preprint arXiv:2604.10242},
+  year={2026}
 }
 ```

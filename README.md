@@ -91,9 +91,9 @@ python github_release_version/test_release.py \
   --original-image path/to/original_image.png \
   --heatmap path/to/similarity_map.png \
   --class-text "target anatomy or lesion name" \
-  --S 0.47 \
-  --C 0.46 \
-  --P 0.93 \
+  --S xxxx \
+  --C xxxx \
+  --P xxxx \
   --output-json path/to/output.json
 ```
 

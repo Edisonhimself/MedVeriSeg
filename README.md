@@ -87,7 +87,7 @@ Then, run MedVeriSeg with the original image, the similarity heatmap, the target
 export OPENAI_API_KEY="your_api_key"
 export OPENAI_BASE_URL="your_openai_compatible_api_base_url"
 
-python github_release_version/test_release.py \
+python MedVeriSeg/test_release.py \
   --original-image path/to/original_image.png \
   --heatmap path/to/similarity_map.png \
   --class-text "target anatomy or lesion name" \

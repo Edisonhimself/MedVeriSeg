@@ -41,7 +41,7 @@
 
 ## :memo: ToDo List
 - [x] Release ***MedVeriSeg codes***.
-- [ ] Release ***MedVeriSeg-Bench*** benchmark (***will be released after the paper is accepted***).
+- [ ] Release ***MedVeriSeg-Bench*** benchmark (***will be released after the paper is accepted***😚).
 
 
 
